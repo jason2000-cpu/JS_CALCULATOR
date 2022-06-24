@@ -6,7 +6,5 @@
 let screen = document.querySelector("#display")
 
 function calcNumbers(x){
-  screen.value += x;
-  
-  
+  screen.value += x; 
 }
